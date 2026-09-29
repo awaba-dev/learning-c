@@ -1,8 +1,6 @@
 # learning-c
 
-![C](https://img.shields.io/badge/language-C-blue) ![Progress](https://img.shields.io/badge/progress-10%20programs-brightgreen)
-
-My journey learning the C programming language, one small program at a time. Each file focuses on a single concept, building up from the basics to a small combined project.
+My journey learning the C programming language, one small program at a time.
 
 ## Progression
 
@@ -26,7 +24,3 @@ cd learning-c
 gcc nom_du_fichier.c -o programme
 ./programme
 ```
-
-## About me
-
-Computer Science student, also building my [portfolio](https://awaba-dev.github.io/portfolio/) and exploring Python and AI. Check out my [GitHub profile](https://github.com/awaba-dev).
